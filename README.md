@@ -7,10 +7,9 @@
  
 🎓 Bachelor's Degree in Computer Science  
 
-🎓 Attending Master's in Artificial Intelligence Systems 
+🎓 Master's in Artificial Intelligence Systems 
 
-📧 marinasegala01@gmail.com (Personal Email) /
-marina.segala@studenti.unitn.it (University Email)
+📧 marinasegala01@gmail.com (Personal Email)  
 
 🌐 Connect with me on LinkedIn: [Marina Segala](https://www.linkedin.com/in/marinasegala-487511270)
 
