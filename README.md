@@ -25,8 +25,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,aws,azure,bash,python,tensorflow,postgresql,powerbi&theme=dark&perline=15" alt="My Skills" style="display: block; margin: 0 auto;">
- <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI" style="vertical-align: middle; border-radius: 10px; height: 48px; margin-left: 4px;">
-  <img src="https://skills-icons.vercel.app/api/icons?i=keras" alt="Skills" style="display: block; margin: 0 auto;">
+ <img src="https://skills-icons.vercel.app/api/icons?i=keras" alt="Skills" style="display: block; margin: 0 auto;">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,cpp,postgresql&theme=dark&perline=15" alt="My Skills" style="display: block; margin: 0 auto;">
 </p>
 
