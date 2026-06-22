@@ -24,7 +24,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,aws,azure,bash,python,tensorflow&theme=dark&perline=15" alt="My Skills" style="display: block; margin: 0 auto;">
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,linux,aws,azure,bash,python,tensorflow,postgresql,powerbi&theme=dark&perline=15" alt="My Skills" style="display: block; margin: 0 auto;">
   <img src="https://skills-icons.vercel.app/api/icons?i=keras" alt="Skills" style="display: block; margin: 0 auto;">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,cpp,postgresql&theme=dark&perline=15" alt="My Skills" style="display: block; margin: 0 auto;">
 </p>
